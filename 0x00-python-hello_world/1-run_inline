@@ -1,2 +1,2 @@
 #!/bin/bash
-pythone3-c "$PYCODE"
+echo $PYCODE | python3
