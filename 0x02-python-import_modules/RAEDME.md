@@ -15,4 +15,4 @@ How to use command line arguments with your Python programs
 
 ## Tasks
 
-
+*0. Import a simple function from a simple file
